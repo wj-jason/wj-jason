@@ -4,7 +4,5 @@ My names Jason, I'm an Electrical & Computer Engineering student at the Universi
 
 I'm currently doing research in networks and distributed systems at UofT with the iQua research group, and I have previous research experience building computer vision models with the National Research Council of Canada. 
 
-Off to the side, I'm building a lightweight hierarchical classification library for use in UTMIST x Aercoustics construction noise classification project. 
-
 LinkedIn: [linkedin.com/in/jason-jh-wang](https://www.linkedin.com/in/jason-jh-wang/)\
 Email: jjh.wang@mail.utoronto.ca
